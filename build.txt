@@ -1,0 +1,3 @@
+displayName = Shark Lad Pet
+author = Aleksh
+version = 1.0
